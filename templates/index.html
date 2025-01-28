@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SSH Honeypot Live Data</title>
+</head>
+<body>
+    <h1>SSH Honeypot Live Data</h1>
+    <pre>
+        {% for log in logs %}
+            {{ log }}
+        {% endfor %}
+    </pre>
+</body>
+</html>
