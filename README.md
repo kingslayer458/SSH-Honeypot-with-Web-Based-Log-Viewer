@@ -8,12 +8,6 @@ Here's a refined GitHub README with enhanced visual presentation and animated el
 
 *Capture and analyze SSH intrusion attempts with this interactive monitoring system*
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![OpenSSH](https://img.shields.io/badge/Compatible%20with-OpenSSH%20v8.9+-orange.svg)](https://www.openssh.com/)
-
-
-
 ## 🌟 Features
 
 - 🕵️ Real-time SSH connection monitoring
